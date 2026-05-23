@@ -112,4 +112,4 @@ I am particularly interested in:
 ## Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/michael-d-62555a28b](http://www.linkedin.com/in/michael-d-62555a28b)
-* GitHub: Update with your GitHub profile link once created
+
